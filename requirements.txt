@@ -8,7 +8,7 @@ Pillow==6.2.2
 sorl-thumbnail==12.5.0
 libsass==0.16.0
 django-compressor==2.2
-django-sass-processor==0.7.2
+django-sass-processor==0.7.5
 pycodestyle
 pytest
 pytest-django
