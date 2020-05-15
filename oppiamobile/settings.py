@@ -54,7 +54,7 @@ TEMPLATES = [
                 'oppia.context_processors.get_version',
                 'oppia.context_processors.get_settings'
             ],
-            'debug': True,
+            'debug': False,
         },
     },
 ]
